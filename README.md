@@ -8,7 +8,7 @@ Visit https://www.8bitfred.com for more information.
 
 ## The game
 
-Escape from the pyramid and discover its treasures. Find the exit at the top level of the maze while avoiding deadly creatures and collecting objects. You can shoot your gun to scare ghosts away, make mummies disappear and kill vampires and skeletons. Press back (or Esc on a keyboard) to access the in-game menu and enable helpful cheats (POKEs).
+Escape from the pyramid and discover its treasures. Find the exit at the top level of the maze while avoiding deadly creatures and collecting objects. You can shoot your gun to scare ghosts away, make mummies disappear and kill vampires and skeletons.
 
 The objective of the game is to reach the exit of the pyramid, located in the top level. The game has 6 levels of increasing difficulty. Each level has more and more difficult enemies:
 
