@@ -1,6 +1,6 @@
 # Retro-Fred
 
-Retro-Fred is a modern port of the classic ZX Spectrum video-game Fred. A version in C++ is also available (https://github.com/8bitfred/retro-fred). Fred is one of the first video-games created in Spain for the Sinclair ZX Spectrum microcomputer. It was developed in 1983 by Fernando Rada, Paco Menéndez and Carlos Granados and distributed by Indescomp. It was licensed, together with Bugaboo (The Flea) by Quicksilva near the end of 1983. It was first published in the United Kingdom, and shortly after in Spain by Investrónica.
+Retro-Fred is a modern port of the classic ZX Spectrum video-game Fred. Fred is one of the first video-games created in Spain for the Sinclair ZX Spectrum microcomputer. It was developed in 1983 by Fernando Rada, Paco Menéndez and Carlos Granados and distributed by Indescomp. It was licensed, together with Bugaboo (The Flea) by Quicksilva near the end of 1983. It was first published in the United Kingdom, and shortly after in Spain by Investrónica. Retro-Fred is also available in C++, with support for Linux, Windows and Android platforms (https://github.com/8bitfred/retro-fred).
 
 Graphics and sound effects from the original game are copyright to the original authors of Fred.
 
