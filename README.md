@@ -4,7 +4,7 @@ Retro-Fred is a modern port of the classic ZX Spectrum video-game Fred. Fred is 
 
 Graphics and sound effects from the original game are copyright to the original authors of Fred.
 
-Visit https://www.8bitfred.com for more information.
+See the project's scratch page at https://scratch.mit.edu/projects/1053158449. Visit https://www.8bitfred.com for more information.
 
 ## The game
 
