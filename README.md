@@ -29,4 +29,4 @@ There are different types of objects that Fred can collect inside the maze:
 * Ammo-up: recharges the number of bullets to the maximum level.
 * Map: shows a map of the section of the map near Fred. The corridors are shown in white and the walls in blue.
 
-After finishing a level you will get 5000 points, and 1000 bonus point for each treasure collected during the game.
+After finishing a level you will get 5000 points, and 1000 bonus point for each treasure collected during the game; and your power will increase by 2 units.
