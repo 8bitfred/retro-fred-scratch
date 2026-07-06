@@ -33,7 +33,7 @@ After finishing a level you will get 5000 points, and 1000 bonus point for each 
 
 ## Files
 
-Retro-Fred_121.sb3 is the standard implementation that closely reproduces the original reverse-engineered Z80 code.
+`Retro-Fred_121.sb3` is the standard implementation that closely reproduces the original reverse-engineered Z80 code.
 
 ### Auto-Fred
 
@@ -41,11 +41,11 @@ Auto-Fred is a version of Fred in which Fred’s movements are controlled automa
 
 There are three implementations of Auto-Fred:
 
-A. Auto-Fred_Dijkstra.sb3 and Auto-Fred_Dijkstra_recursive.sb3. The latter is a recursive implementation.
+A. `Auto-Fred_Dijkstra_recursive.sb3` (a recursive implementation)
 
-B. Auto-Fred_DepthFirst.sb3
+B. `Auto-Fred_DepthFirst.sb3`
 
-C. Auto-Fred_Right-Hand.sb3
+C. `Auto-Fred_Right-Hand.sb3`
 
 ### Debug map
 
