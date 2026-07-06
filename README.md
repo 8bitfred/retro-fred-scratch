@@ -30,3 +30,19 @@ There are different types of objects that Fred can collect inside the maze:
 * Map: shows a map of the section of the map near Fred. The corridors are shown in white and the walls in blue.
 
 After finishing a level you will get 5000 points, and 1000 bonus point for each treasure collected during the game; and your power will increase by 2 units.
+
+## Files
+
+Retro-Fred_121.sb3 is the standard implementation that closely reproduces the original reverse-engineered Z80 code.
+
+### Auto-Fred
+
+Auto-Fred is a version of Fred in which Fred’s movements are controlled automatically to guide him to the exit. It uses Dijkstra’s algorithm to find the shortest path as well as infinite power mode.
+
+There are three implementations of Auto-Fred:
+
+A. Auto-Fred_Dijkstra.sb3 and Auto-Fred_Dijkstra_recursive.sb3. The latter is a recursive implementation.
+
+B. Auto-Fred_DepthFirst.sb3
+
+C. Auto-Fred_Right-Hand.sb3
