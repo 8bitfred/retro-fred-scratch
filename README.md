@@ -46,3 +46,15 @@ A. Auto-Fred_Dijkstra.sb3 and Auto-Fred_Dijkstra_recursive.sb3. The latter is a 
 B. Auto-Fred_DepthFirst.sb3
 
 C. Auto-Fred_Right-Hand.sb3
+
+### Debug map
+
+The `slDebugMap.txt` file contains the contents of the `slDebugMap` list from the `Map` sprite in plain text format. It can be imported into the Scratch project for debugging purposes.
+
+### Scratch code
+
+`ScratchCodePDF.zip`, `ScratchCodeSVG.zip`, `Auto-Fred_ScratchCodePDF.zip`, and `Auto-Fred_ScratchCodeSVG.zip` contain the Scratch code in PDF and SVG formats.
+
+### Audio and video 
+
+The `audio.zip` archive contains the sound effects in WAV format, and the `sprites.zip` archive contains the sprites in PNG format.
